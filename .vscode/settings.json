@@ -1,0 +1,14 @@
+{
+  "tslint.autoFixOnSave": true,
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "editor.formatOnSave": true,
+  "beautify.language": {
+    "css": ["css", "scss", "less"],
+    "html": ["htm", "html", "vue"]
+  },
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "terminal.integrated.shell.windows": "cmd.exe"
+}
